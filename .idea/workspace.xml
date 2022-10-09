@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0f80f75-2d17-447e-ac04-517e606474c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPractice_9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AvgComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/EmptyStringException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/GroupComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LabClassUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/StudentNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/labClassDriver.java" afterDir="false" />
-    </list>
+    <list default="true" id="a0f80f75-2d17-447e-ac04-517e606474c1" name="Changes" comment="First commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,8 +63,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665312621406</updated>
-      <workItem from="1665312622664" duration="7409000" />
+      <workItem from="1665312622664" duration="7657000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1665320843873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665320843874</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1665320988324</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665320988324</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
