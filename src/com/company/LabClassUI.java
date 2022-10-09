@@ -12,7 +12,7 @@ import java.util.Comparator;
 public class LabClassUI extends JFrame {
 
     private ArrayList<Student> students;
-    private JTable studTable;
+    private JTable studTable; // таблица
 
     public LabClassUI(ArrayList<Student> students){
         // base
